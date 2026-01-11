@@ -1,6 +1,6 @@
 [package]
-name = "Number_Gussing_Game"
-version = "0.1.0"
+name = "Number_Guessing_Game"
+version = "0.1.1"
 edition = "2024"
 
 [dependencies]
